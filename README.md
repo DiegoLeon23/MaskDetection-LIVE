@@ -1,7 +1,7 @@
 
 # **_Mask Detection_** 
 
-Desarrollando una red convuncional que permite detectar
+Desarrollando una red convolucional que permite detectar
 el uso de masacarillas. 
 
 **Usando OpenCV y Keras** 
